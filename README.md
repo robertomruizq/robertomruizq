@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertomruizq
-- 🌱 I’m currently learning DevOps and SRE
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me by email robertoruiz0001@yahoo.com
 
 <!---
